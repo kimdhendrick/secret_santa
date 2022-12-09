@@ -1,8 +1,10 @@
+#!/usr/bin/env ruby
+
 COUPLES = [
   [:kim_hendrick, :david_madouros],
   [:karen_hendrick, :peter_hendrick],
   [:jill_harbin, :pete_harbin],
-  #[:monica_barnes],
+  [:monica_barnes],
   #[:mitchell_barnes],
 ]
 class SecretSanta
