@@ -5,7 +5,7 @@ COUPLES = [
   [:karen_hendrick, :peter_hendrick],
   [:jill_harbin, :pete_harbin],
   [:monica_barnes],
-  #[:mitchell_barnes],
+  [:mitchell_barnes],
 ]
 class SecretSanta
   def go
